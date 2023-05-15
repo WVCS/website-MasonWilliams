@@ -1,3 +1,26 @@
-body {
-
+body{
+  background-color:#2B2118;
+}
+h1{
+  color:#AF9164;
+  font-size: 32px;
+}
+p{
+  color:#F7F3E3;
+  font-size: 23px;
+}
+img{
+  width: 55%;
+  border-style: double;
+  border-color: #9E9885;
+  border-width: 5px;
+}
+iframe{
+  border-style: double;
+  border-color: #9E9885;
+  border-width: 5px;
+}
+h2{
+  color:#EDF2F4;
+  font-size: 27px;
 }
