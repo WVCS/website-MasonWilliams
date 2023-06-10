@@ -47,3 +47,58 @@ li a:hover{
   background-color: #C6BFB4; 
   color: white;
 }
+body{
+  background-color:#2B2118;
+}
+h1{
+  color:#AF9164;
+  font-size: 32px;
+}
+p1{
+  text-align: center;
+  color:#F7F3E3;
+  font-size: 16px;
+}
+img{
+  width: 400px;
+  border-style: double;
+  border-color: #9E9885;
+  border-width: 5px;
+}
+iframe{
+  border-style: double;
+  border-color: #9E9885;
+  border-width: 5px;
+}
+h9{
+  color:#EDF2F4;
+  font-size: 33px;
+  text-align: center;
+}
+h3{
+  color:#F7F3E3;
+  font-size: 23px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color: #7B7263;
+  font-family: Copperplate;
+  text-decoration: none;
+  border: solid;
+}
+li a:hover{
+  background-color: #C6BFB4; 
+  color: white;
+}
+h10{
+  color:#EDF2F4;
+  font-size: 15px;
+}
